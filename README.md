@@ -26,7 +26,7 @@ Diferente de uma aplicação de mensagens privada, este sistema funciona como um
 ## 🔰Como inicializar o projeto
 
 - Faça o download do arquivo pelo github e abra a pasta no terminal.
-- Instalar o node pelo link: 
+- Instalar o node pelo link: https://nodejs.org/pt-br
 - Você pode verificar se o node ja está instalado com o comando no terminal; <br>
 ``` 
 npm- -v 
